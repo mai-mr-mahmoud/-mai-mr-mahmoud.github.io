@@ -3,7 +3,7 @@
 ## Introduction ##
 
 My Name is **Mai Mahmoud**. I'm Egyptian. 
-I'm a Software Engineer with past experience in Web Development.:relaxed: 
+I'm a `Software Engineer` with past experience in Web Development.:relaxed: 
 
 
 ## Education ##
