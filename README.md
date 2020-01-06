@@ -3,7 +3,7 @@
 ## Introduction ##
 
 My Name is **Mai Mahmoud**. I'm Egyptian. 
-I'm a `Software Engineer` with past experience in Web Development.:relaxed: 
+I'm a `Software Engineer` with past experience in Web Development.
 
 
 ## Education ##
@@ -34,4 +34,4 @@ ___________________________________________________________________
 
 [My github account]( https://github.com/mai-mr-mahmoud)
 
-**I'm looking for new challenges.** :carousel_horse:
+**I'm looking for new challenges.** 
